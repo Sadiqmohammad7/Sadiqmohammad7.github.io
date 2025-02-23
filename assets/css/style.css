@@ -18,7 +18,7 @@ body {
 body::before  {
   content: "";
   position: fixed;
-  background: url('../img/background/bg7.jpg') no-repeat center center;
+  background: url('../img/background/Space.jpg') no-repeat center center;
   background-size: cover;
   opacity: 1;  /* Ensure it's fully visible */
   left: 0;
