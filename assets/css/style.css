@@ -18,9 +18,8 @@ body {
 body::before  {
   content: "";
   position: fixed;
-  background: url('../img/background/black_hole_8-wallpaper-7680x4320.jpg') no-repeat center center;
+  background: url('../img/background/bg7.jpg') no-repeat center center;
   background-size: cover;
-  background-brightness: 0.5;
   opacity: 1;  /* Ensure it's fully visible */
   left: 0;
   right: 0;
